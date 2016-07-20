@@ -1,0 +1,18 @@
+.contenedor{
+	width: 200px !important;
+	padding:5px 5px 10px 5px;
+	display: block;
+	margin-bottom:5px;
+}
+.solo{
+	display:block;
+}
+div{
+	height:60px;
+	width: 60px;
+	border:2px solid #2a334f;
+	display:inline-block;
+	background-color: #8dc6a9;	
+}	
+
+
